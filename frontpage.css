@@ -33,6 +33,9 @@ body {
     flex-direction: row;
 }
 .mediafront {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: rgb(247, 247, 247);
     color: black;
     height: 25%;
